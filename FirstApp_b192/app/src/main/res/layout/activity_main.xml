@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#A1CEF3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <!--dp : Densitive Scale independent pixel  declared in Viewgroups
+    sp: Scale Independent pixel declared in views-->
+
+   <ImageView
+       android:layout_width="100sp"
+       android:layout_height="100sp"
+       android:layout_gravity="center"
+       android:src="@drawable/k_img"
+       android:layout_marginTop="30sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Krishna"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Branch"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Percentage"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="college Name"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="number"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textSize="34sp"
+
+        android:textStyle="bold"
+        android:textColor="#EC4510"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
+        />
+
+
+</LinearLayout>
