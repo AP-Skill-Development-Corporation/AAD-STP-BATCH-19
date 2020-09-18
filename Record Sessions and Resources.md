@@ -9,4 +9,6 @@
 
 [Day 3](https://transcripts.gotomeeting.com/#/s/02d0fadf0db55ae2b7a94a0f916583fb62f56728fd0b8059c408c5ed0961a7f0)
 
+[Day 4](https://transcripts.gotomeeting.com/#/s/dd726cd6e0b28ba98ce14a6b52fff3cb5f300546dad5e5f2d06df8d65ca36c4e)
+
 
