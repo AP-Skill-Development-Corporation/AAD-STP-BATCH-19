@@ -13,4 +13,6 @@
 
 [Day 5](https://transcripts.gotomeeting.com/#/s/731978441cfc85b2db4ce980bfa9aa063c2519574133f9fd94ed90ffda26a7d3)
 
+[Day 6](https://transcripts.gotomeeting.com/#/s/50a7902e80b7857ef8a0e087958fa20ca2e54a9ce112e88c679bbd28d824b000)
+
 
