@@ -14,4 +14,34 @@
        android:onClick="navigate"
        android:text="Navigate"/>
 
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/edit1"
+    android:hint="Enter url"/>
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Browser"
+       android:onClick="sendUrl"/>
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/edit2"
+       android:hint="Enter phoneNum"/>
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Dial"
+       android:onClick="dial"/>
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/edit3"
+       android:hint="Enter Your Name"/>
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Send"
+       android:onClick="sendData"/>
 </LinearLayout>
