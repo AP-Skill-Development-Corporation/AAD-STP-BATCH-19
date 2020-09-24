@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<!--Displaying tabs is tablayout in the android design support library
+It provides a horizontallayout to display tabs.-->
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tab1">
+    </com.google.android.material.tabs.TabLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/viewpager1">
+        <!--ViewPager is a layoutmanager that lets the user flip left to right through
+        screens
+        Viewpager is most often used in conjunction with fragment
+         Fragment :  is a part of Activity  it is also known as subactivity
+         we can display multiple screens on one activity-->
+
+
+    </androidx.viewpager.widget.ViewPager>
+</LinearLayout>
