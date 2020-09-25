@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyRecylerview</string>
+    <string-array name="upendra">
+        <item>aditya</item>
+        <item>chaitanya</item>
+        <item>kasyap</item>
+        <item>manikanta</item>
+        <item>abhi</item>
+        <item>surya</item>
+        <item>meghana</item>
+        <item>kalyan</item>
+        <item>architha</item>
+        <item>sai</item>
+
+
+
+    </string-array>
+
+</resources>
