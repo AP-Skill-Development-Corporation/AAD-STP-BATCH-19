@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                         String title = obj.getString("title");
                         String link = obj.getString("urlToImage");
                         MyModel model = new MyModel(title,link);
-                        list.add(model);    
+                        list.add(model);
                     }
 
                 } catch (Exception e) {
