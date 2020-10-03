@@ -2,6 +2,7 @@ package com.example.exampleshared;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
@@ -31,5 +32,6 @@ public class RegisterActivity extends AppCompatActivity {
         editor.putString("um",mail);
         editor.commit();
         Toast.makeText(this, "Registered", Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(this,MainActivity.class));
     }
 }
